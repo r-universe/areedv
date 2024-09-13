@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/areedv/areedv.r-universe.dev
 	branch = HEAD
+[submodule "rapbase"]
+	path = rapbase
+	url = https://github.com/rapporteket/rapbase
+[submodule "rapporteket"]
+	path = rapporteket
+	url = https://github.com/rapporteket/rapporteket
 [submodule "sship"]
 	path = sship
 	url = https://github.com/rapporteket/sship
