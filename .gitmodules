@@ -8,6 +8,3 @@
 [submodule "rapporteket"]
 	path = rapporteket
 	url = https://github.com/rapporteket/rapporteket
-[submodule "sship"]
-	path = sship
-	url = https://github.com/rapporteket/sship
