@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/areedv/areedv.r-universe.dev
 	branch = HEAD
+[submodule "bilfar"]
+	path = bilfar
+	url = https://github.com/areedv/bilfar
 [submodule "rapbase"]
 	path = rapbase
 	url = https://github.com/rapporteket/rapbase
